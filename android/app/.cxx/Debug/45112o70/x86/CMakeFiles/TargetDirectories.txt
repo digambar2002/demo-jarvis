@@ -1,0 +1,2 @@
+D:/my projects/flutter/jarvis/android/app/.cxx/Debug/45112o70/x86/CMakeFiles/edit_cache.dir
+D:/my projects/flutter/jarvis/android/app/.cxx/Debug/45112o70/x86/CMakeFiles/rebuild_cache.dir
